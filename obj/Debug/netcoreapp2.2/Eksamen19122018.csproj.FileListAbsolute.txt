@@ -1,0 +1,17 @@
+C:\Users\Jan\source\repos\Eksamen19122018\Eksamen19122018\bin\Debug\netcoreapp2.2\Eksamen19122018.deps.json
+C:\Users\Jan\source\repos\Eksamen19122018\Eksamen19122018\bin\Debug\netcoreapp2.2\Eksamen19122018.runtimeconfig.json
+C:\Users\Jan\source\repos\Eksamen19122018\Eksamen19122018\bin\Debug\netcoreapp2.2\Eksamen19122018.runtimeconfig.dev.json
+C:\Users\Jan\source\repos\Eksamen19122018\Eksamen19122018\bin\Debug\netcoreapp2.2\Eksamen19122018.dll
+C:\Users\Jan\source\repos\Eksamen19122018\Eksamen19122018\bin\Debug\netcoreapp2.2\Eksamen19122018.pdb
+C:\Users\Jan\source\repos\Eksamen19122018\Eksamen19122018\obj\Debug\netcoreapp2.2\Eksamen19122018.csprojAssemblyReference.cache
+C:\Users\Jan\source\repos\Eksamen19122018\Eksamen19122018\obj\Debug\netcoreapp2.2\Eksamen19122018.csproj.CoreCompileInputs.cache
+C:\Users\Jan\source\repos\Eksamen19122018\Eksamen19122018\obj\Debug\netcoreapp2.2\Eksamen19122018.RazorAssemblyInfo.cache
+C:\Users\Jan\source\repos\Eksamen19122018\Eksamen19122018\obj\Debug\netcoreapp2.2\Eksamen19122018.RazorAssemblyInfo.cs
+C:\Users\Jan\source\repos\Eksamen19122018\Eksamen19122018\obj\Debug\netcoreapp2.2\Eksamen19122018.AssemblyInfoInputs.cache
+C:\Users\Jan\source\repos\Eksamen19122018\Eksamen19122018\obj\Debug\netcoreapp2.2\Eksamen19122018.AssemblyInfo.cs
+C:\Users\Jan\source\repos\Eksamen19122018\Eksamen19122018\obj\Debug\netcoreapp2.2\Eksamen19122018.RazorTargetAssemblyInfo.cache
+C:\Users\Jan\source\repos\Eksamen19122018\Eksamen19122018\obj\Debug\netcoreapp2.2\Eksamen19122018.dll
+C:\Users\Jan\source\repos\Eksamen19122018\Eksamen19122018\obj\Debug\netcoreapp2.2\Eksamen19122018.pdb
+C:\Users\Jan\source\repos\Eksamen19122018\Eksamen19122018\bin\Debug\netcoreapp2.2\Library.dll
+C:\Users\Jan\source\repos\Eksamen19122018\Eksamen19122018\bin\Debug\netcoreapp2.2\Library.pdb
+C:\Users\Jan\source\repos\Eksamen19122018\Eksamen19122018\obj\Debug\netcoreapp2.2\Eksamen19122018.csproj.CopyComplete
