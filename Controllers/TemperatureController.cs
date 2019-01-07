@@ -14,7 +14,7 @@ namespace Eksamen19122018.Controllers
     [ApiController]
     public class TemperatureController : ControllerBase
     {
-        private string connectionstring = "Server=tcp:thefarmand.database.windows.net,1433;Initial Catalog=Thefarmand;Persist Security Info=False;User ID=Thefarmand;Password=Killer1963;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;";
+        private string connectionstring = "Din egen forbindelse";
 
         // GET: api/Temperature
         [HttpGet(Name = "GetAll")]
